@@ -1,0 +1,31 @@
+body{
+    background-color: blueviolet;
+}
+
+.conatiner{
+    border: solid 3px black;
+}
+
+#header{
+    text-align: center;
+    color: black;
+
+}
+
+.form-control{
+background-color: cornflowerblue;
+}
+
+#inputGroup-sizing-lg{
+    border: solid 2px black;
+    border-radius: 8px;
+}
+
+#butt{
+    border: solid 3px black;
+    border-radius: 8px;
+}
+:hover#butt{
+    background-color: blue;
+    color: aqua;
+}
