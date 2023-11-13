@@ -1,5 +1,5 @@
 body{
-    background-color: blueviolet;
+    background-color: aqua;
 }
 
 .conatiner{
@@ -26,6 +26,7 @@ background-color: cornflowerblue;
     border-radius: 8px;
 }
 :hover#butt{
-    background-color: blue;
-    color: aqua;
+    background-color: black;
+    color: blueviolet;
+    transition: 0.3s;
 }
